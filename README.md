@@ -1,5 +1,3 @@
-# About
-My personal profile
 <h1 align="center">Hi 👋, I'm Ahmed Elrweny</h1>
 <h3 align="center">Passion To Be .Net Developer Competitive Programmer On CodeForces and LeetCode</h3>
 
