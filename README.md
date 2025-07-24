@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elrweny</h1>
-<h3 align="center">Passion To Be .Net Developer Competitive Programmer On CodeForces and LeetCode</h3>
+<h3 align="center">They say follow the blueprint. I say redraw it. I'm Ahmed—full stack developer who traded the safety of Engineering for the wilderness of Computer Science at 17. My playground? The space between "that won't work" and "how did you do that?" Chess player. Football striker. Gamer. Problem addict. I don't just think outside the box—I question why there's a box at all. Routine code makes me twitch. Unsolved puzzles make me smile. If you're looking for someone who follows instructions, keep scrolling. If you want someone who rewrites them, we should talk !</h3>
 
 - 🌱 I’m currently learning **Asp.Net Using MVC**
 
