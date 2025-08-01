@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elrweny</h1>
+<h1 align="center"><b>Hi , I'm Ahmed Elrweny </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+back-End+Developer,;Computer+Science+Student,;Chess+player,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 <h3 align="center">They say follow the blueprint. I say redraw it. I'm Ahmed—full stack developer who traded the safety of Engineering for the wilderness of Computer Science at 17. My playground? The space between "that won't work" and "how did you do that?" Chess player. Football striker. Gamer. Problem addict. I don't just think outside the box—I question why there's a box at all. Routine code makes me twitch. Unsolved puzzles make me smile. If you're looking for someone who follows instructions, keep scrolling. If you want someone who rewrites them, we should talk !</h3>
 
 - 🌱 I’m currently learning **Asp.Net Using MVC**
