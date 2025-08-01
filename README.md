@@ -11,8 +11,12 @@
 ### 🧠 About Me
 
 > *They say follow the blueprint. I say redraw it.*
+> 
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-I'm **Ahmed**, a full-stack developer who traded the safety of traditional Engineering for the creative chaos of **Computer Science** at 17.  
+
+
+I'm **Ahmed**, a full-stack developer who traded the safety of traditional Engineering for the creative chaos of **Computer Science**.  
 
 - I thrive in the space between *"that won’t work"* and *"how did you do that?"*
 - Chess player ♞ | Football striker ⚽ | Gamer 🎮 | Problem-solver 🔧
@@ -36,17 +40,35 @@ I'm **Ahmed**, a full-stack developer who traded the safety of traditional Engin
 
 ### 🔗 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmedelrweny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<div align="center" class="icons-social" style="margin-left: 10px;">
+
+  <!-- LinkedIn -->
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/ahmed-elrweny-3aa771292/">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
-  <a href="https://facebook.com/ahmedelrweny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+
+  <!-- GitHub -->
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/ahmedelrweny1">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
-  <a href="https://codeforces.com/profile/ahmedelrweny_1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+
+  <!-- Facebook -->
+  <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/ahmed.elrweny.673443">
+    <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png" alt="Facebook">
   </a>
-</p>
+
+  <!-- Instagram -->
+  <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/ahmed__elrweny_1/?__pwa=1">
+    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
+  </a>
+
+  <!-- Codeforces -->
+  <a style="margin-left: 10px;" target="_blank" href="https://codeforces.com/profile/ahmedelrweny_1">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="40" width="40">
+  </a>
+
+</div>
+
 
 ---
 
@@ -62,14 +84,19 @@ I'm **Ahmed**, a full-stack developer who traded the safety of traditional Engin
   <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
 </p>
-
+    <h2 align="center">Used IDE's</h2>
+    <div align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="80">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="80">
+    </div>
 ---
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zluvsand&layout=compact&theme=tokyonight" alt="Ahmed's Top Languages" />
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=bhaveshlohana&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />  <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshlohana&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ---
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 ### 💬 Final Thought
 
