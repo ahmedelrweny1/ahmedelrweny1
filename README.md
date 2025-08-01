@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 Who I Am ?
 
 > *They say follow the blueprint. I say redraw it.*
 > 
@@ -25,17 +25,23 @@ I'm **Ahmed**, a full-stack developer who traded the safety of traditional Engin
   If you want someone who rewrites them — **we should talk.**
 
 ---
-
-### 🌱 Currently Learning
-
-- **ASP.NET MVC** and advanced backend development
+### Take a look !
+<div align ="left">
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on Problem-Solving , ⭐️ star the projects if you like it 🤩.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://drive.google.com/file/d/1gRcsgu9D3btCrtJ-gXWBK6tf-juL9pWW/view?usp=drive_link">LINK TO MY RESUME</a>.</li>
+            <li>💬 <b>Ask me about anything</b>: <a href="https://github.com/ahmedfathydev/ahmedfathydev/issues">Here</a>.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Chess(🌍), and Photography(📷).</li>
+        </ul>
+</div>
 
 ---
 
 ### 📫 How to Reach Me
 
 - Email: **elrwenyahmed05@gmail.com**
-
+- Phone: **+201065562301**
 ---
 
 ### 🔗 Connect With Me
